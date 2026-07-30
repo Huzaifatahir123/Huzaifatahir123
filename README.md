@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Huzaifa 👋<br>🚀 Full-Stack Web & Application Developer<br>I build end-to-end web applications with a focus on fast performance, clean code, and reliable database architectures.<br><br>🔭 Currently building: Full-stack applications with Next.js, .NET Blazor, and PostgreSQL<br><br>🛠️ Core Expertise: Modern JavaScript ecosystem (MERN Stack, Next.js), SQL Database Design, RESTful APIs<br><br>🎬 Content & Media: Crafting tech tutorials & creative video editing<br><br>🌌 Outside of Coding: Astrophotography & capturing the Milky Way 📸<br><br>📍 Based in: Islamabad, Pakistan
+Hi there, I'm Huzaifa 👋<br>🚀 Full-Stack Web & Application Developer<br>I build end-to-end web applications with a focus on fast performance, clean code, and reliable database architectures.<br><br>🔭 Currently building: Full-stack applications with Next.js, .NET Blazor, and PostgreSQL<br><br>🛠️ Core Expertise: Modern JavaScript ecosystem (MERN Stack, Next.js), SQL Database Design, RESTful API
 
 
 ## 🌐 Socials:
