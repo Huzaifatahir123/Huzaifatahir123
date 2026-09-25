@@ -1,18 +1,136 @@
-# 💫 About Me:
-Hi there, I'm Huzaifa 👋<br>🚀 Full-Stack Web & Application Developer<br>I build end-to-end web applications with a focus on fast performance, clean code, and reliable database architectures.<br><br>🔭 Currently building: Full-stack applications with Next.js, .NET Blazor, and PostgreSQL<br><br>🛠️ Core Expertise: Modern JavaScript ecosystem (MERN Stack, Next.js), SQL Database Design, RESTful API
+<div align="center">
 
+# Huzaifa Tahir
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huzaifatahir395@gmai.com) 
+### Full-Stack Developer — Frontend Craft, Backend Depth
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Huzaifatahir123&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Huzaifatahir123&theme=date_night&hide_border=false)<br/>
+I build end-to-end web applications that solve real business problems — not just ship code.
+Clean architecture, fast performance, and interfaces people actually enjoy using.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifatahir395@gmail.com)
+
+</div>
+
+<br>
+
+## About
+
+I'm a full-stack developer who works across the entire product — from pixel-perfect React interfaces down to the database schema underneath them. Lately I've been narrowing my focus toward **Node.js backend engineering**, building on a frontend foundation in React and Tailwind CSS.
+
+I take on original builds and redesign/refactor work for clients, and I think about every project in terms of the business outcome it needs to hit — not just the technical implementation.
+
+**Currently building:** Full-stack applications with Next.js, .NET Blazor, and PostgreSQL.
+
+<br>
+
+## Tech Stack
+
+**Languages**
+<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+<br>
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
+
+**Backend & Realtime**
+<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
+
+**Database & ORM**
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<br>
+
+## Featured Projects
+
+*(Placeholders below — swap in your own titles, links, and descriptions.)*
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Project One
+Short one-line description of what it does and who it's for.
+
+**Stack:** React · Node.js · PostgreSQL
+<br>
+[Live Demo](#) · [Source](#)
+
+</td>
+<td width="50%">
+
+### 🔹 Project Two
+Short one-line description of what it does and who it's for.
+
+**Stack:** Next.js · Tailwind · Supabase
+<br>
+[Live Demo](#) · [Source](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔹 Project Three
+Short one-line description of what it does and who it's for.
+
+**Stack:** .NET Blazor · SQL Server
+<br>
+[Live Demo](#) · [Source](#)
+
+</td>
+<td width="50%">
+
+### 🔹 Project Four
+Short one-line description of what it does and who it's for.
+
+**Stack:** MERN · Socket.io
+<br>
+[Live Demo](#) · [Source](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=Huzaifatahir123&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Huzaifatahir123&theme=date_night&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Huzaifatahir123&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+</div>
+
+<br>
+
+<div align="center">
+
 [![](https://komarev.com/ghpvc/?username=Huzaifatahir123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Built with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
+</div>
