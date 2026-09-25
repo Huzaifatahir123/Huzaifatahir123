@@ -113,15 +113,13 @@ Short one-line description of what it does and who it's for.
 
 <br>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Huzaifatahir123&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-profile-trophy.vercel.app/?username=Huzaifatahir123&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7)
 
-![](https://streak-stats.demolab.com/?user=Huzaifatahir123&theme=date_night&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Huzaifatahir123&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifatahir123&theme=react-dark&hide_border=true)
 
 </div>
 
