@@ -2,10 +2,9 @@
 
 # Huzaifa Tahir
 
-### Full-Stack Developer — Frontend Craft, Backend Depth
+### Full-Stack Developer
 
-I build end-to-end web applications that solve real business problems — not just ship code.
-Clean architecture, fast performance, and interfaces people actually enjoy using.
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifatahir395@gmail.com)
 
@@ -15,11 +14,7 @@ Clean architecture, fast performance, and interfaces people actually enjoy using
 
 ## About
 
-I'm a full-stack developer who works across the entire product — from pixel-perfect React interfaces down to the database schema underneath them. Lately I've been narrowing my focus toward **Node.js backend engineering**, building on a frontend foundation in React and Tailwind CSS.
-
-I take on original builds and redesign/refactor work for clients, and I think about every project in terms of the business outcome it needs to hit — not just the technical implementation.
-
-**Currently building:** Full-stack applications with Next.js, .NET Blazor, and PostgreSQL.
+I am a fullstack developer . worked across different projects and solved real problems .
 
 <br>
 
@@ -69,59 +64,33 @@ I take on original builds and redesign/refactor work for clients, and I think ab
 <td width="50%">
 
 ### 🔹 Project One
-Short one-line description of what it does and who it's for.
+Ecommerence Website 
 
-**Stack:** React · Node.js · PostgreSQL
+**Stack:** React ·  Firebase
 <br>
-[Live Demo](#) · [Source](#)
+https://teebas.netlify.app/ · 
 
 </td>
 <td width="50%">
 
 ### 🔹 Project Two
-Short one-line description of what it does and who it's for.
+Real time chat Application
 
-**Stack:** Next.js · Tailwind · Supabase
+**Stack:** React.js · Tailwind · Node.js . Socket.IO 
 <br>
-[Live Demo](#) · [Source](#)
+
 
 </td>
 </tr>
 <tr>
+
 <td width="50%">
 
-### 🔹 Project Three
-Short one-line description of what it does and who it's for.
-
-**Stack:** .NET Blazor · SQL Server
-<br>
-[Live Demo](#) · [Source](#)
-
-</td>
-<td width="50%">
-
-### 🔹 Project Four
-Short one-line description of what it does and who it's for.
-
-**Stack:** MERN · Socket.io
-<br>
-[Live Demo](#) · [Source](#)
-
-</td>
-</tr>
 </table>
 
 <br>
 
-## GitHub Activity
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Huzaifatahir123&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifatahir123&theme=react-dark&hide_border=true)
-
-</div>
 
 <br>
 
